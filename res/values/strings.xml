@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">艾丽的计划</string>
+<string name="change_level">选择关卡</string>
+<string name="test_animation">测试动画</string>
+<string name="test_diary">测试日记</string>
+<string name="unlock_levels">解除所有关卡</string>
+<string name="unlock_next_level">解除下一关</string>
+<string name="method_tracing">循环追踪</string>
+
+<string name = "game_over">游戏结束</string>
+<string name = "thanks_for_playing">谢谢!</string>
+<string name = "please_wait">请等待..</string>
+
+
+<!-- UI -->
+<string name="preference_save_game">游戏数据</string>
+<string name="preference_erase_save_game">清除已保存记录</string>
+<string name="preference_erase_save_game_dialog">确定清除吗?</string>
+<string name="preference_erase_save_game_dialog_title">等待..</string>
+<string name="preference_erase_save_game_dialog_ok">清除</string>
+<string name="preference_erase_save_game_dialog_cancel">取消</string>
+
+
+<string name="preference_game_settings">设置</string>
+<string name="preference_enable_sound">声音</string>
+<string name="preference_enable_sound_summary">关闭声音可提高游戏速度</string>
+
+<string name="preference_safe_mode">安全模式</string>
+<string name="preference_safe_mode_summary">不同模式~设置不同</string>
+
+<string name="preference_configure_controls">控制设置</string>
+<string name="preference_enable_click_attack">点击控制</string>
+<string name="preference_enable_click_attack_summary">使用跟踪球</string>
+<string name="preference_enable_screen_controls">屏幕控制</string>
+<string name="preference_enable_screen_controls_summary">展示功能操作，根据需求选择</string>
+
+<string name="preference_enable_tilt_controls">倾斜控制</string>
+<string name="preference_enable_tilt_controls_summary">左右上下倾斜手机来控制移动</string>
+
+<string name="preference_movement_sensitivity">移动灵敏度</string>
+<string name="preference_movement_sensitivity_summary">设置跟踪球和光传感器的灵敏度</string>
+<string name="preference_movement_min">慢</string>
+<string name="preference_movement_max">快</string>
+
+<string name="preference_tilt_sensitivity">倾斜灵敏度</string>
+<string name="preference_tilt_sensitivity_summary">调整倾斜灵敏度</string>
+<string name="preference_tilt_min">慢</string>
+<string name="preference_tilt_max">快</string>
+
+<string name="preference_key_config">键盘配置</string>
+<string name="preference_key_config_summary">定制手机与键盘的按键</string>
+<string name="preference_key_config_dialog_title">键盘配置</string>
+<string name="preference_key_config_dialog_ok">保存</string>
+<string name="preference_key_config_dialog_cancel">取消</string>
+<string name="preference_key_config_left">左</string>
+<string name="preference_key_config_right">右</string>
+<string name="preference_key_config_jump">跳</string>
+<string name="preference_key_config_attack">撞击</string>
+
+
+<string name="preference_enable_statistics">游戏统计报告</string>
+<string name="preference_enable_statistics_summary">向服务器发送数据~增加游戏可玩性</string>
+
+
+<string name="preference_about">关于</string>
+<string name="preference_about_title">关于艾丽的计划</string>
+<string name="preference_about_summary">作者:马佳佳</string>
+
+<string name="game_results_title">游戏结束</string>
+<string name="game_results_pearls_collected">收集红宝石:</string>
+<string name="game_results_robots_destroyed">消灭怪物:</string>
+<string name="game_results_total_play_time">游戏时间:</string>
+<string name="game_results_ending">完成目标:</string>
+<string name="game_results_unlocks_message">现在可以开启另外两个模式~</string>
+<string name="game_results_kabocha_ending">失败 #1 - 帝帛赢</string>
+<string name="game_results_rokudou_ending">失败 #2 - 某集团赢</string>
+<string name="game_results_wanda_ending">成功 - 拯救星球!</string>
+<string name="game_results_ok_button">游戏结束!</string>
+
+<string name="saved_game_erased_notification">清除保存</string>
+
+<string name="quit_game_dialog_title">退出游戏?</string>
+<string name="quit_game_dialog_ok">确定</string>
+<string name="quit_game_dialog_cancel">取消</string>
+<string name="quit_game_dialog_message">返回主菜单?</string>
+
+<string name="new_game_dialog_title">开始新游戏?</string>
+<string name="new_game_dialog_ok">开始</string>
+<string name="new_game_dialog_cancel">取消</string>
+<string name="new_game_dialog_message">开始新游戏,上次记录无效,确定开始?</string>
+
+<string name="extras_locked_dialog_title">锁定中~</string>
+<string name="extras_locked_dialog_ok">开始吧~</string>
+<string name="extras_locked_dialog_message">功能仍处于锁定状态~赶快通过玩儿游戏解锁吧~</string>
+
+
+<string name="nav_type">跟踪球</string>
+<string name="baby_description">没有丝毫挑战</string>
+<string name="kids_description">很容易通过</string>
+<string name="adults_description">需要技巧</string>
+
+
+<!-- Toast Messages -->
+<string name="memory_playback_start">继续游戏</string>
+<string name="memory_playback_complete">游戏完成</string>
+<string name = "diary_found">发现之前日志</string>
+
+
+<!--  names -->
+<string name = "Wanda">婉达</string>
+<string name = "Kyle">凯利</string>
+<string name = "Kabocha">帝帛</string>
+<string name = "Rokudou">某集团领袖</string>
+<string name = "Android">艾丽</string>
+
+<!-- level names -->
+<string name = "level_0_1_sewer">关卡1</string>
+<string name = "level_0_2_lab">关卡2</string>
+<string name = "level_0_3_lab">关卡3</string>
+
+<string name = "level_1_1_island">关卡4</string>
+<string name = "level_1_2_island">关卡5</string>
+<string name = "level_1_3_island">关卡6</string>
+<string name = "level_1_4_island">关卡7</string><!-- 关卡6的设计被封锁了 -->
+<string name = "level_1_5_island">关卡8</string>
+<string name = "level_1_6_island">关卡 9</string>
+<string name = "level_1_7_island">关卡10</string><!-- 关卡9被封 -->
+<string name = "level_1_8_island">关卡 11</string>
+<string name = "level_1_9_island">关卡12</string>
+
+<string name = "level_2_1_grass">关卡13</string>
+<string name = "level_2_2_grass">关卡14</string>
+<string name = "level_2_3_grass">关卡15</string>
+<string name = "level_2_4_grass">关卡16</string>
+<string name = "level_2_5_grass">关卡17</string>
+<string name = "level_2_6_grass">关卡18</string>
+<string name = "level_2_7_grass">关卡19</string>
+<string name = "level_2_8_grass">关卡20</string>
+<string name = "level_2_9_grass">关卡21</string>
+
+<string name = "level_3_1_sewer">关卡22</string>
+<string name = "level_3_2_sewer">关卡23</string>
+<string name = "level_3_3_sewer">关卡24</string>
+<string name = "level_3_4_sewer">关卡25</string>
+<string name = "level_0_1_sewer_kyle">关卡25.3</string>
+<string name = "level_0_1_sewer_wanda">关卡25.7</string>
+<string name = "level_3_5_sewer">关卡26</string> <!-- 3-5 is the first level to take place in the "present" -->
+<string name = "level_3_6_sewer">关卡27</string>
+<string name = "level_3_7_sewer">关卡28</string>
+<string name = "level_3_8_sewer">关卡29</string>
+<string name = "level_3_9_sewer">关卡30</string>
+<string name = "level_3_10_sewer">关卡31</string>
+<string name = "level_3_11_sewer">关卡31.5</string> <!-- Special level for Kyle fight -->
+
+<string name = "level_4_1_underground">关卡32</string>
+<string name = "level_4_2_underground">关卡33</string>
+<string name = "level_4_3_underground">关卡34</string>
+<string name = "level_4_4_underground">关卡35</string>
+<string name = "level_4_5_underground">关卡36</string>
+<string name = "level_4_6_underground">关卡37</string>
+<string name = "level_4_7_underground">关卡38</string>
+<string name = "level_4_8_underground">关卡39</string>
+<string name = "level_4_9_underground">关卡40</string>
+
+<string name = "level_final_boss_lab">关卡41</string>
+
+<string name = "level_puzzle_test">难度测试</string>
+<string name = "level_object_test">对象测试</string>
+<string name = "level_performance_test">性能测试</string>
+<string name = "level_performance_test2">性能测试 2</string>
+<string name = "level_performance_test3">性能测试 3</string>
+<string name = "level_performance_test4">谷歌IO性能测试</string>
+<string name = "level_npc_motion_test">NPC运动测试</string>
+
+<!-- Level time codes -->
+
+<!-- level names -->
+<string name = "level_0_1_time">时长 07:12:03</string>
+<string name = "level_0_2_time">时长 00:00:00</string>
+<string name = "level_0_3_time">时长 00:06:26</string>
+
+<string name = "level_1_1_time">时长 00:34:10</string>
+<string name = "level_1_2_time">时长 00:44:46</string>
+<string name = "level_1_3_time">时长 00:52:16</string>
+<string name = "level_1_4_time">时长 00:59:01</string>
+<string name = "level_1_5_time">时长 01:07:24</string>
+<string name = "level_1_6_time">时长 01:23:38</string>
+<string name = "level_1_7_time">时长 01:38:04</string>
+<string name = "level_1_8_time">时长 01:42:00</string>
+<string name = "level_1_9_time">时长 01:56:44</string>
+
+<string name = "level_2_1_time">时长 02:25:18</string>
+<string name = "level_2_2_time">时长 02:37:20</string>
+<string name = "level_2_3_time">时长 02:40:13</string>
+<string name = "level_2_4_time">时长 02:51:09</string>
+<string name = "level_2_5_time">时长 03:01:55</string>
+<string name = "level_2_6_time">时长 03:16:28</string>
+<string name = "level_2_7_time">时长 03:33:12</string>
+<string name = "level_2_8_time">时长 03:46:07</string>
+<string name = "level_2_9_time">时长 03:54:29</string>
+
+<string name = "level_3_1_time">时长 04:07:10</string>
+<string name = "level_3_2_time">时长 04:18:42</string>
+<string name = "level_3_3_time">时长 04:45:15</string>
+<string name = "level_3_4_time">时长 04:59:06</string>
+<string name = "level_3_5_time">时长 07:19:59</string>
+<string name = "level_3_6_time">时长 07:36:17</string>
+<string name = "level_3_7_time">时长 07:51:24</string>
+<string name = "level_3_8_time">时长 08:16:55</string>
+<string name = "level_3_9_time">时长 08:35:12</string>
+<string name = "level_3_10_time">时长 08:50:36</string>
+<string name = "level_3_11_time">时长 08:55:54</string>
+
+<string name = "level_4_1_time">时长 09:10:01</string>
+<string name = "level_4_2_time">时长 09:42:40</string>
+<string name = "level_4_3_time">时长 09:58:11</string>
+<string name = "level_4_4_time">时长 10:27:36</string>
+<string name = "level_4_5_time">时长 10:52:10</string>
+<string name = "level_4_6_time">时长 11:12:35</string>
+<string name = "level_4_7_time">时长 11:39:04</string>
+<string name = "level_4_8_time">时长 11:57:22</string>
+<string name = "level_4_9_time">时长 12:13:40</string>
+<string name = "level_final_boss_time">时长 12:45:12</string>
+<string name = "level_test_time">(测试关卡)</string>
+
+<!--  diary entries -->
+
+<string name="Diary1">
+日记 - 周六- 晴朗\n
+我已经到达!今天早晨我借了一条小船， 从货船和划到岸边的船经过岛屿。船长已经承诺可以在两周内归还;我有足够多的时间来完成任务。\n
+我发现自己站在浩瀚的海滩,沙丘沿着海岸线延伸很远,绿色的热带森林可见接近地平线。一个无知的人,才会认为这个地方一个天堂。我更加知道。不过,我不禁惊叹这里无与伦比的美!\n
+</string>
+<string name="Diary2">
+日记 - 周日 - 晴朗\n
+在离开前我遇到某集团说的关于我的使命~他是一个伟大的人~一个靠实际行动而不是说大话的人。我很高兴看到他识别出我相当独特的技能。我既不是活命主义者也不是喜爱户外活动的人,我甚至不记得我上次去野营。这个非常精明的某集团领袖选择我来访问这个奇怪的,荒芜的地方。我不会让他失望的。\n
+</string>
+
+<string name="Diary3">
+日记 - ??? - 黄昏\n
+分析相似生物.\n
+真不该来到这里~某集团欺骗了我~我想现在已经超过两周的时间了~那艘小船早就来了~我真后悔~我不该来到这个地方!\n
+</string>
+
+<string name="Diary4">
+日记 - 周一 - 阴天\n
+今天我遇到了三个冒险家.我以为这个岛只有我一个人，当我听到人的声音时感到非常的惊讶，我觉得他们来这里对我的使命是一种威胁，他们已经来到这里一个月了，但是几乎没有深入到远处的森林和海滩，他们很优秀，但是我的技能远远优于他们。\n
+</string>
+
+<string name="Diary5">
+日志 - 周六 - 雨\n
+今天时连续第三天下雨，上周的天气很好，海洋是平静的，我坐在一个凹室底部的一棵空心树下。\n
+这是一个奇怪的地方。我开始接近中心。自进入森林我见过一些事情我无法解释。没关系,我的任务是明确的,就一定会成功。我今晚会睡在这里,然后明天进一步向该岛的中心出发.\n
+
+</string>
+
+<string name="Diary6">
+日记 - ??? - 潮湿\n
+世界上怎么会有一个下水道系统在一个热带岛屿下呢?像欧洲的旧城市,但是为了什么目的?什么灵感的小秘密,造成这种巨大的地下结构来显化?也许一个照片,或孩子的图画书。这座岛本身太远离任何国家直接使用这种体系结构的影响。\n
+当我离开这里要找到某集团领袖和对他说他的错误的方法时。目标离我越来越近了,但我不确定我想要找到它了。\n
+
+</string>
+
+<string name="Diary7">
+地下没有雨!\n
+讨厌的雨天，来个晴朗的天气吧。\n
+国王的所有马和男人不能在一起。\n
+
+</string>
+
+<string name="Diary8">
+日记 - 周三 - 阴天\n
+我可能已经找到了一条通向森林的路。草原前方伸展在似乎是一个小的林中空地中,但是我认为,他们的边界森林将稀薄。如果我的计算结果是正确的,这一边的岛一年中大部分时间应该背阴的。\n
+我在这里已经一个月了，还没有找到目的地.我的聪明才智是不用质疑的，但是我找到它我该如何使用它，它肯定会让我成为它的二号人物，一想到这些就头晕，使自己无法超越自己!\n
+
+</string>
+
+<string name="Diary9">
+衣服啊。\n
+海盗没有足够的衣服!\n
+</string>
+
+<string name="Diary10">
+日记 - 周一(?) - 雨\n
+植物虽然很普通，但是它们的生命力是很强大的。\n
+某集团希望这种力量——我想要那力量——因此世界可以免受政府和其他寄生虫,只寻求压迫和破坏。\n
+
+</string>
+
+<string name="Diary11">
+日记 - 忘记日期 - 暴雨\n
+我遇到的冒险者都死了。我发现他们挂在树上附近的岩石地层在森林里。这个发现是令人震惊和悲伤;虽然我们都争夺相同的目标,我感到一种与他们特殊的友情。他们是正确的,当然,他们是其他人。\n
+尽管悲剧，我不能让他们的不幸结束我的任务。\n
+我将冒险进入另外一个森林。\n
+
+</string>
+
+<string name="Diary12">
+日记 - 未知 - 地下\n
+我的头好痛痛。也许是因为烟雾来到了这里,我觉得我的头是满了压力,很快就会破裂。\n
+当我发现源,我要用它来治愈自己,不管它是什么,我已经生根。如果某集团抱怨那也许我就请他从这个星球出去。我做这项工作，应该得到奖励。\n
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29\n
+
+</string>
+
+<string name="Diary13">
+他说谎，某集团是一个说谎者。他只寻求控制。他说他希望源来拯救世界，但是我更想获得源. 73, 79, 83, 89, 97, 101, 103, 107, 109, 113。\n
+源在这里。它是在这里,在黑暗中。我能感受到它的热量,就像太阳温暖与我的脸颊。但是我找到了，Rokudou会从我这里抢走，我不要。\n
+</string>
+
+<string name="Diary14">
+日记 - 周六 - 多云\n
+\n
+我不得不承认,我很惊讶地发现,某集团选我找到源当初是有疑问的，但是现在，我是唯一的可以取得成功的人，这个岛已经不受控制了一百年!\n
+\n
+过,我不能说我完全信任某集团领袖。他是一个聪明的人,但我也确信他选择我,因为他认为我容易控制。我有一种感觉,他看着我在我的肩膀上。当然,这个岛是自由的人类居住救我和三个冒险家我遇见了几天前,因此存在一个间谍是不可能的。然而,我无法摆脱这种被监视的感觉。\n
+
+</string>
+
+<string name="Diary15">
+日记 - 周日 - 晴朗\n
+\n
+有些事情必须确定，哪怕是个破纸.\n
+\n
+我在那些冒险家睡着的时候，杀死了他们，然后把他们挂在树上，告诉自己，是岛上的不知名东西杀了他们，我截取了他们的电池盒手电筒，目标对我太重要了，我不能留下他们来冒险!\n
+\n
+我是一个怪物吗?我不这么认为。我帝帛,广受尊敬的科学家和世界的专家,这个岛倒亚特兰蒂斯。我的行为是合乎逻辑的和合理的——我不是怪物.\n
+\n
+如果我足够诚实，这有一个原因冒险家不得不死。我想做这件事，我很喜欢!
+</string>
+
+<!-- Misc Dialog -->
+
+<string name="KyleDeadNote">那是凯利~他已经不能动了~</string>
+
+</resources>

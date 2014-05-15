@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Kabocha Dialog Entries -->
+
+<string name="Kabocha_0_2_1_1">
+准备工作都已做好了~
+</string>
+
+<string name="Kabocha_0_2_1_2">
+艾丽好~我是你的主任帝帛~你的任务是找到一种超能力资源~
+</string>
+
+<string name="Kabocha_0_2_1_3">
+在你出发之前~ 我教你一些基本技能~ 使用轨迹球和方向键来 <b>左右滚动</b>~ 你仅仅 <b>稍稍移动</b> 就好~来,试一下移动到山坡下~
+</string>
+
+<string name="Kabocha_0_2_2_1">
+哇哦,你很棒哦，你学习能力非常好~<b>只需记住轨迹球和方向键来移动~</b>不需要一直使用它们哦~
+</string>
+
+<string name="Kabocha_0_2_2_2">
+现在学习飞起来~ <b>点击蓝色按钮~保持即可飞起来~</b>只有在你能量充沛的时候才能持续飞~左上角有你的能量记录~消耗完要重新补充~
+</string>
+
+<string name="Kabocha_0_2_2_3">
+试一下吧~
+</string>
+
+<string name="Kabocha_0_2_3_1">
+飞起来之后可以在空中做稍许的左右移动~渐渐你就会掌握它的诀窍~
+</string>
+
+<string name="Kabocha_0_2_3_2">
+艾丽~下面就有一个实验室~你去体验下吧~我在下一个出口等你哦~
+</string>
+
+<string name="Kabocha_0_2_4_1">
+艾丽~做的很棒哦~我相信你一定可以找到我要的东西~
+</string>
+
+<string name="Kabocha_0_2_4_2">
+你看到那些珍珠吗~ 你必须<b>收集它们</b>才可顺利通过~如果你受伤 了它们<b>可以帮助你恢复体能</b>还可以给你 <b>短暂的</b>超能力~<small>这些珍珠对你来说没什么太大用处~但是我要靠它们来偿还我的发明费~</small>
+</string>
+
+<string name="Kabocha_0_2_4_3">
+继续吧~通过红色标记打开门~
+</string>
+
+<string name="Kabocha_0_2_5_1">
+超能力影响着这个地方~越接近它影响越大~这是我研究成果后犯下的严重错误~
+</string>
+
+<string name="Kabocha_0_2_5_2">
+很多年前~我放置了一批我发明的探寻者~让它们来这个繁衍找到超能力~可是很不巧~超能力影响了它们~导致我无法控制~
+</string>
+
+<string name="Kabocha_0_2_5_3">
+我给你设计了击退它们的武器~当你飞起来的时候<b>点击红色按钮就可利用你的超凡重力击溃它们</b>
+</string>
+
+<string name="Kabocha_0_2_6_1">
+很棒哦~<small>(好了~你可以前行了)</small><small>别忘记收集珍珠哦~</small>.
+</string>
+
+<string name="Kabocha_0_2_6_2">
+哦~还有一点忘了告诉你~你自己的能量使用<b>红色宝石</b>来补充~我已经在你此去的路上放置了足够你使用的宝石~<b>记得收集哦~</b>每一个地方你至少收集3个哦~<b>必须的哦~</b>
+</string>
+
+<string name="Kabocha_0_2_6_3">
+该交代的都已交代~此去一定要找到超能力~它可是我控制整个星球~
+</string>
+
+
+<string name="Kabocha_0_3_1_1">
+艾丽~你已具备了前进的各种需求~你的使命一定要记住~现在我来教你一招~
+</string>
+
+<string name="Kabocha_0_3_1_2">
+ 第一~通过此地方记得收集宝石~
+</string>
+
+<string name="Kabocha_0_3_2_1">
+我已经给了你一个特殊技能来控制那些小小怪~站着不要动<b>按着攻击键</b>保持一小会儿<b>就会出现能量珠~</b>.
+</string>
+
+<string name="Kabocha_0_3_2_2">
+你可以控制能量珠~点击攻击键之后它就会爆破~你就又恢复自己能力了~
+</string>
+
+<string name="Kabocha_0_3_2_3">
+使用能量珠~会有意外收获哦~
+</string>
+
+<string name="Kabocha_0_3_3_1">
+太棒了~
+</string>
+
+<string name="Kabocha_0_3_3_2">
+这些能量珠有一个短暂的生命时间~你只有在生命周期内才可以进行各项攻击~
+</string>
+
+<string name="Kabocha_0_3_3_3">
+多加练习吧~
+</string>
+
+<string name="Kabocha_0_3_4_1">
+我不知道超能力来自哪里~他也许是某种东西合成体~也许是上个世纪的人类创造的~具体我也不知~
+</string>
+
+<string name="Kabocha_0_3_4_2">
+如果我找到了它~我就可以各种困境~在我的有生之年我一直在寻找~现在我老了~就只能你替代我了~辛苦你了~
+</string>
+
+<string name="Kabocha_0_3_5_1">
+艾丽~很棒~现在让我来告诉你我们的敌人~
+</string>
+
+<string name="Kabocha_0_3_5_2">
+这个地方充满了危险~你要当心某个集团的人员侵入~该集团就是个疯子~且不可让超能力落入他人之手~
+</string>
+
+<string name="Kabocha_0_3_5_3">
+该集团是一个非法暴利集团~
+</string>
+
+<string name="Kabocha_0_3_5_4">
+我相信它一定派人来寻找超能力~你一定要避开他们~并且在他们之前找到超能力~否则后果不堪设想~
+</string>
+<string name = "Kabocha_4_3_1_1">
+艾丽~超能量是我掌握这个星球的基本~
+</string>
+<string name = "Kabocha_4_3_1_2">
+啊~哈哈哈!我的时间很有限~如果你背叛我~我会毁灭你~
+</string>
+<string name = "Kabocha_4_3_1_3">
+这么多年的辛勤和汗水~超能力终于是我的了~没有人能够阻止我~ 啊~哈哈哈~哈哈!
+</string>
+<string name = "Kabocha_4_3_1_4">
+艾丽~你已经没有使用价值了~作为你的主人谢谢你的服务喽~不过在消灭你之前我和能量球要先返回实验室~你的最后一个任务就是自生自灭在此~<small>嘎嘎~</small>
+</string>
+
+<string name = "Kabocha_final_boss_1_1">
+别再浪费生命了~某集团~艾丽是 <i>我的</i>创造~ 它做的事<i>我的</i>使命~
+</string>
+<string name = "Kabocha_final_boss_1_2">
+艾丽~我非常懂你~你不应该归顺某集团~因为他们很疯狂~
+</string>
+<string name = "Kabocha_final_boss_1_3">
+ 我已经对你无语了~
+</string>
+</resources>

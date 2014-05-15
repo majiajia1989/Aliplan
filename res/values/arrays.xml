@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<!-- This came right out of frameworks/base/include/ui/KeycodeLabels.h -->
+ 	<string-array name="keycode_labels">
+    <item>左软键</item>
+    <item>右软键</item>
+    <item>首页</item>
+    <item>返回</item>
+    <item>呼叫</item>
+    <item>挂断</item>
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>开始</item>
+    <item>敲打</item>
+    <item>上</item>
+    <item>下</item>
+    <item>左</item>
+    <item>右</item>
+    <item>中</item>
+    <item>音量+</item>
+    <item>音量-</item>
+    <item>电池</item>
+    <item>摄像头</item>
+    <item>清除</item>
+    <item>A</item>
+    <item>B</item>
+    <item>C</item>
+    <item>D</item>
+    <item>E</item>
+    <item>F</item>
+    <item>G</item>
+    <item>H</item>
+    <item>I</item>
+    <item>J</item>
+    <item>K</item>
+    <item>L</item>
+    <item>M</item>
+    <item>N</item>
+    <item>O</item>
+    <item>P</item>
+    <item>Q</item>
+    <item>R</item>
+    <item>S</item>
+    <item>T</item>
+    <item>U</item>
+    <item>V</item>
+    <item>W</item>
+    <item>X</item>
+    <item>Y</item>
+    <item>Z</item>
+    <item>,</item>
+    <item>.</item>
+    <item>ALT LEFT</item>
+    <item>ALT RIGHT</item>
+    <item>SHIFT LEFT</item>
+    <item>SHIFT RIGHT</item>
+    <item>TAB</item>
+    <item>SPACE</item>
+    <item>SYM</item>
+    <item>EXPLORER</item>
+    <item>ENVELOPE</item>
+    <item>ENTER</item>
+    <item>DEL</item>
+    <item>GRAVE</item>
+    <item>MINUS</item>
+    <item>EQUALS</item>
+    <item>LEFT BRACKET</item>
+    <item>RIGHT BRACKET</item>
+    <item>BACKSLASH</item>
+    <item>SEMICOLON</item>
+    <item>APOSTROPHE</item>
+    <item>SLASH</item>
+    <item>AT</item>
+    <item>NUM</item>
+    <item>HEADSETHOOK</item>
+    <item>FOCUS</item>
+    <item>PLUS</item>
+    <item>MENU</item>
+    <item>NOTIFICATION</item>
+    <item>SEARCH</item>
+  </string-array>
+</resources>
